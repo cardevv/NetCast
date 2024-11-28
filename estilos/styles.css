@@ -336,3 +336,11 @@ body {
 .link-episodio {
     text-decoration: none;
 }
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #555;
+}
